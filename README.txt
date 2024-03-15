@@ -1,0 +1,1 @@
+Space Defender is a simple arcade-style game where players control a spaceship to defend against waves of enemy ships. The game is built using Python and the tkinter library for graphical user interface.
